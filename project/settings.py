@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # My Apps
     'book',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
